@@ -8,7 +8,6 @@ AMateria::AMateria(std::string const &type) : type(type)
 
 AMateria::~AMateria()
 {
-
 }
 
 AMateria::AMateria(AMateria const &o) : type(o.type)
