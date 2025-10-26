@@ -1,8 +1,7 @@
 #pragma once
 
 #include <iostream>
-
-class AMateria;  // Forward declaration
+#include "AMateria.hpp"
 
 class ICharacter
 {
